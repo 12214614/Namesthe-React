@@ -1,0 +1,25 @@
+{
+  "name": "namesthe_react",
+  "version": "1.0.0",
+  "description": "I WAS LEARNING REACT",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/12214614/Namesthe-React.git"
+  },
+  "keywords": [
+    "REACT2025"
+  ],
+  "author": "ESHWARTEJA-DELIVERY",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/12214614/Namesthe-React/issues"
+  },
+  "homepage": "https://github.com/12214614/Namesthe-React#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  }
+}
